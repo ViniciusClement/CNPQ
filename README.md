@@ -24,4 +24,6 @@ Conclui-se que o estudo realizado atingiu o objetivo. No entanto, as análises r
 
 
 
-Palavras chave: Generative Adversarial Network; Deep Fake; Noise2Noise; Convolutional Neural Network
+Palavras chave: Generative Adversarial Network; Deep Fake; Noise2Noise; Convolutional Neural Network.
+
+https://www.youtube.com/watch?v=XHd5VNyPRAo
